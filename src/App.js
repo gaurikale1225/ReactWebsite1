@@ -8,7 +8,7 @@ import Contact from "./Pages/Contact";
 import Gallery from "./Pages/Gallery";
 import Product from "./Pages/Product";
 //import
-
+//rename repo 
 import {BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
