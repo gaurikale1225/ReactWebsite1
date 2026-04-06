@@ -7,6 +7,7 @@ import Services from "./Pages/Services";
 import Contact from "./Pages/Contact";
 import Gallery from "./Pages/Gallery";
 import Product from "./Pages/Product";
+//import
 
 import {BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
